@@ -73,13 +73,16 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   #linkedin = "username"
   #telegram = "username"
   #github = "username"
-  #gitlab = "username"
+  gitlab = "biowr"
   #bitbucket = "username"
   email = "bi@dna.ac.cn"
 
 
 [[Params.widgets.social.custom]]
   title = "My Home Page"
-  url = "https://dna.ac.com"
+  url = "https://ruiprime.cn"
+[[Params.widgets.social.custom]]
+  title = "ChatGPT"
+  url = "https://chat.dna.ac.cn"
 
 
