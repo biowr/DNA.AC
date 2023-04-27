@@ -6,10 +6,24 @@
     <description>Recent content in Posts on DNA Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2023 15:44:29 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2023 16:00:49 +0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bioinformatics Links</title>
+      <link>/posts/bioinformatics-links/</link>
+      <pubDate>Thu, 27 Apr 2023 16:00:49 +0800</pubDate>
+      
+      <guid>/posts/bioinformatics-links/</guid>
+      <description>National Genomics Data Center 国家基因组科学数据中心  Nucleotide Sequence Databases 核酸序列数据库  NCBI
+ National Center for Biotechnology Information  EBI
+ European Bioinformatics Institute  DDBJ
+ DNA Data Bank of Japan   Protein Sequence Databases 蛋白质序列数据库  SWISS-PROT &amp;amp; TrEMBL
+ Protein sequence database and computer annotated supplement  UniProt
+ (Universal Protein Resource) is the world&amp;rsquo;s most comprehensive catalog of information on proteins. It is a central repository of protein sequence and function created by joining the information contained in Swiss-Prot, TrEMBL, and PIR.</description>
+    </item>
     
     <item>
       <title>Genome</title>

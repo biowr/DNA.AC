@@ -1,30 +1,8 @@
 ---
-# Common-Defined params
 title: "Nanopore Introduction"
-date: "2022-08-21"
-description: "Nanopore Introduction"
-categories:
-  - "Bioinformatics"
-tags:
-  - Nanopore"
-menu: main # Optional, add page to a menu. Options: main, side, footer
-
-# Theme-Defined params
-#thumbnail: "img/placeholder.png" # Thumbnail image
-lead: "关于三代的学习 " # Lead text
-comments: false # Enable Disqus comments for specific page
-authorbox: true # Enable authorbox for specific page
-pager: true # Enable pager navigation (prev/next) for specific page
-toc: true # Enable Table of Contents for specific page
-mathjax: true # Enable MathJax for specific page
-sidebar: "right" # Enable sidebar (on the right side) per page
-widgets: # Enable sidebar widgets in given order per page
-  - "search"
-  - "recent"
-  - "taglist"
+date: 2022-11-20T09:03:20-08:00
+draft: true
 ---
-
-
 
 今天，会和大家谈一下最近我学习Nanopore测序，得到的对Nanopore测序的一些认识。Nanopore测序有两个最大的特点，第一个特点是仪器非常轻便，小型的MinION测序仪只有手机那么大小，重量是90克。第二个特点，是测序读长可以做到非常长。我看到的数据，最长的读长可以达到30万~40万个碱基也因为Nanopore有这样两个优点，它最近得到了测序界的广泛关注。
 

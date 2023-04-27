@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/home/</loc>
+    <lastmod>2023-04-27T16:08:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/bioinformatics-links/</loc>
+    <lastmod>2023-04-27T16:00:49+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/genome/</loc>
     <lastmod>2023-04-27T15:44:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/bioinformatics-links/</loc>
-    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/nanopore/</loc>
-    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -29,20 +29,7 @@
   </url>
   
   <url>
-    <loc>/tags/bi/</loc>
-    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/bioinformatics/</loc>
-    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -60,31 +47,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2023-04-27T15:44:29+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/linux/</loc>
-    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/linux/</loc>
-    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/nanopore/</loc>
-    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-27T16:08:13+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2023-04-27T15:44:29+08:00</lastmod>
+    <lastmod>2023-04-27T16:00:49+08:00</lastmod>
     <priority>0</priority>
   </url>
   
