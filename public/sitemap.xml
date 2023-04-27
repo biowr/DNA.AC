@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>/nanopore/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
   </url>
@@ -62,6 +67,12 @@
   
   <url>
     <loc>/categories/linux/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nanopore/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
