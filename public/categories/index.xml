@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on DNA Academic</title>
-    <link>http://dna.ac.cn/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on DNA Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://dna.ac.cn/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bioinformatics</title>
-      <link>http://dna.ac.cn/categories/bioinformatics/</link>
+      <link>/categories/bioinformatics/</link>
       <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://dna.ac.cn/categories/bioinformatics/</guid>
+      <guid>/categories/bioinformatics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Category 1</title>
-      <link>http://dna.ac.cn/categories/category-1/</link>
+      <link>/categories/category-1/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://dna.ac.cn/categories/category-1/</guid>
+      <guid>/categories/category-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Category 2</title>
-      <link>http://dna.ac.cn/categories/category-2/</link>
+      <link>/categories/category-2/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://dna.ac.cn/categories/category-2/</guid>
+      <guid>/categories/category-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>http://dna.ac.cn/categories/linux/</link>
+      <link>/categories/linux/</link>
       <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://dna.ac.cn/categories/linux/</guid>
+      <guid>/categories/linux/</guid>
       <description></description>
     </item>
     

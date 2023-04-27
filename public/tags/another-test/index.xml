@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Another Test on DNA Academic</title>
-    <link>http://dna.ac.cn/tags/another-test/</link>
+    <link>/tags/another-test/</link>
     <description>Recent content in Another Test on DNA Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://dna.ac.cn/tags/another-test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/another-test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example article title</title>
-      <link>http://dna.ac.cn/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://dna.ac.cn/about/</guid>
+      <guid>/about/</guid>
       <description></description>
     </item>
     

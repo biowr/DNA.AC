@@ -1,4 +1,4 @@
-baseurl = "http://dna.ac.cn"
+baseurl = "/"
 title = "DNA Academic"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
@@ -7,7 +7,7 @@ disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
-  name = "Ricky"
+  name = "Ricky Wang"
   bio = "Ricky is Scientist"
   avatar = "img/avatar.png"
 

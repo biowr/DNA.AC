@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bi on DNA Academic</title>
-    <link>http://dna.ac.cn/tags/bi/</link>
+    <link>/tags/bi/</link>
     <description>Recent content in Bi on DNA Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://dna.ac.cn/tags/bi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/bi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bioinformatics-Links</title>
-      <link>http://dna.ac.cn/bioinformatics-links/</link>
+      <link>/bioinformatics-links/</link>
       <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://dna.ac.cn/bioinformatics-links/</guid>
+      <guid>/bioinformatics-links/</guid>
       <description>National Genomics Data Center 国家基因组科学数据中心  Nucleotide Sequence Databases 核酸序列数据库  NCBI
  National Center for Biotechnology Information  EBI
  European Bioinformatics Institute  DDBJ
