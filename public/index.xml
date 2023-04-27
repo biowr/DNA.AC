@@ -6,51 +6,18 @@
     <description>Recent content on DNA Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2023 16:08:13 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Home</title>
-      <link>/home/</link>
-      <pubDate>Thu, 27 Apr 2023 16:08:13 +0800</pubDate>
-      
-      <guid>/home/</guid>
-      <description> ����DNA��һ�� </description>
-    </item>
-    
-    <item>
-      <title>Bioinformatics Links</title>
-      <link>/posts/bioinformatics-links/</link>
-      <pubDate>Thu, 27 Apr 2023 16:00:49 +0800</pubDate>
-      
-      <guid>/posts/bioinformatics-links/</guid>
-      <description>National Genomics Data Center 国家基因组科学数据中心  Nucleotide Sequence Databases 核酸序列数据库  NCBI
- National Center for Biotechnology Information  EBI
- European Bioinformatics Institute  DDBJ
- DNA Data Bank of Japan   Protein Sequence Databases 蛋白质序列数据库  SWISS-PROT &amp;amp; TrEMBL
- Protein sequence database and computer annotated supplement  UniProt
- (Universal Protein Resource) is the world&amp;rsquo;s most comprehensive catalog of information on proteins. It is a central repository of protein sequence and function created by joining the information contained in Swiss-Prot, TrEMBL, and PIR.</description>
-    </item>
-    
-    <item>
-      <title>Genome</title>
-      <link>/posts/genome/</link>
-      <pubDate>Thu, 27 Apr 2023 15:44:29 +0800</pubDate>
-      
-      <guid>/posts/genome/</guid>
-      <description>Fig.1_SVG
-?? Fig. 1 | Ex vivo and in vivo genome editing to treat human disease.a, b, Somatic genome-editing treatments may be accomplished in one of two ways: by removing and editing target cells in the laboratory before returning them to the patient (ex vivo, a) or by directly delivering CRISPR�CCas editing tools to the affected tissue (in vivo, b). a, Blood disorders such as sickle cell disease may be treated by editing haematopoietic stem or progenitor cells (HSPCs) ex vivo, creating normal red blood cells (RBCs).</description>
-    </item>
-    
-    <item>
-      <title>Example article title</title>
-      <link>/about/</link>
+      <title>HOME</title>
+      <link>/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description></description>
+      <guid>/</guid>
+      <description> Home Pages </description>
     </item>
     
   </channel>

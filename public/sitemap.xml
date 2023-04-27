@@ -3,22 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/home/</loc>
-    <lastmod>2023-04-27T16:08:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/bioinformatics-links/</loc>
-    <lastmod>2023-04-27T16:00:49+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/genome/</loc>
-    <lastmod>2023-04-27T15:44:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
+    <loc>/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -34,26 +19,8 @@
   </url>
   
   <url>
-    <loc>/categories/category-1/</loc>
-    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/category-2/</loc>
-    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/</loc>
-    <lastmod>2023-04-27T16:08:13+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2023-04-27T16:00:49+08:00</lastmod>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

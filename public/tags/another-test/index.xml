@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Example article title</title>
-      <link>/about/</link>
+      <title>HOME</title>
+      <link>/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description></description>
+      <guid>/</guid>
+      <description> Home Pages </description>
     </item>
     
   </channel>

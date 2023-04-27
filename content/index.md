@@ -1,11 +1,8 @@
 ---
 # Common-Defined params
-title: "Example article title"
+title: "HOME"
 date: "2017-08-21"
-description: "Example article description"
-categories:
-  - "Category 1"
-  - "Category 2"
+description: "DNA"
 tags:
   - "Test"
   - "Another test"
@@ -25,3 +22,6 @@ widgets: # Enable sidebar widgets in given order per page
   - "recent"
   - "taglist"
 ---
+
+
+# Home Pages
