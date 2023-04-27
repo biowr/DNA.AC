@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://dna.ac.cn/bioinformatics-links/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dna.ac.cn/about/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dna.ac.cn/tags/another-test/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dna.ac.cn/tags/bi/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dna.ac.cn/categories/bioinformatics/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dna.ac.cn/categories/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dna.ac.cn/categories/category-1/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dna.ac.cn/categories/category-2/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dna.ac.cn/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dna.ac.cn/categories/linux/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dna.ac.cn/tags/linux/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dna.ac.cn/tags/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dna.ac.cn/tags/test/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
