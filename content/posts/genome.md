@@ -1,7 +1,6 @@
 ---
 title: "Genome"
 date: 2023-04-27T15:44:29+08:00
-draft: true
 ---
 
 Fig.1_SVG

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on DNA Academic</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on DNA Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Apr 2023 15:44:29 +0800</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genome</title>
+      <link>/posts/genome/</link>
+      <pubDate>Thu, 27 Apr 2023 15:44:29 +0800</pubDate>
+      
+      <guid>/posts/genome/</guid>
+      <description>Fig.1_SVG
+?? Fig. 1 | Ex vivo and in vivo genome editing to treat human disease.a, b, Somatic genome-editing treatments may be accomplished in one of two ways: by removing and editing target cells in the laboratory before returning them to the patient (ex vivo, a) or by directly delivering CRISPR�CCas editing tools to the affected tissue (in vivo, b). a, Blood disorders such as sickle cell disease may be treated by editing haematopoietic stem or progenitor cells (HSPCs) ex vivo, creating normal red blood cells (RBCs).</description>
+    </item>
+    
+  </channel>
+</rss>
