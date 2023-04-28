@@ -1,29 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DNA Academic</title>
-    <link>/</link>
-    <description>Recent content on DNA Academic</description>
+    <title>三代 on DNA Academic</title>
+    <link>/tags/%E4%B8%89%E4%BB%A3/</link>
+    <description>Recent content in 三代 on DNA Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2023 16:00:49 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Nov 2022 09:03:20 -0800</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/%E4%B8%89%E4%BB%A3/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Bioinformatics Links</title>
-      <link>/posts/bioinformatics-links/</link>
-      <pubDate>Thu, 27 Apr 2023 16:00:49 +0800</pubDate>
-      
-      <guid>/posts/bioinformatics-links/</guid>
-      <description>National Genomics Data Center 国家基因组科学数据中心  Nucleotide Sequence Databases 核酸序列数据库  NCBI
- National Center for Biotechnology Information  EBI
- European Bioinformatics Institute  DDBJ
- DNA Data Bank of Japan   Protein Sequence Databases 蛋白质序列数据库  SWISS-PROT &amp;amp; TrEMBL
- Protein sequence database and computer annotated supplement  UniProt
- (Universal Protein Resource) is the world&amp;rsquo;s most comprehensive catalog of information on proteins. It is a central repository of protein sequence and function created by joining the information contained in Swiss-Prot, TrEMBL, and PIR.</description>
-    </item>
     
     <item>
       <title>Nanopore Introduction</title>
@@ -74,15 +60,6 @@ Nanopore的碱基识别是一个复杂的工作。因为目前蛋白Pore狭窄�
 2、数据的产量也比较低
 3、试剂的稳定性还有待提高
 以上是我学习Nanopore测序技术的个人认识，供大家参考</description>
-    </item>
-    
-    <item>
-      <title>HOME</title>
-      <link>/home/</link>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/home/</guid>
-      <description> Home Pages </description>
     </item>
     
   </channel>
